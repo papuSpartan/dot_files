@@ -1,0 +1,30 @@
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color2" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color2" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.analog-stereo
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.analog-stereo
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.analog-stereo
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.

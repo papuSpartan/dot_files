@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/papu/.config/fontconfig/conf.d'
+let g:netrw_dirhist_4='/home/papu/.config/fontconfig'
+let g:netrw_dirhist_3='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_2='/home/papu/yay/PKGBUILD'
+let g:netrw_dirhist_1='/sys/class/backlight/intel_backlight'
