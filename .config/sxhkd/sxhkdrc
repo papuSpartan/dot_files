@@ -41,10 +41,11 @@ XF86AudioMute
 #screenshots
 Print
 	screenshot
-#fan control
-control + shift + super + {f,a}
-	echo {3000,"auto"} > /sys/module/razercontrol/drivers/hid\:Razer\ laptop\ System\ control\ driver/0003\:1532\:023A.0001/fan_rpm
 	
+# MPS keys
+
+{XF86AudioPlay,XF86AudioNext,XF86AudioPrev}
+	playerctl {play-pause,next,previous}
 
 
 # quit/restart bspwm

@@ -31,6 +31,7 @@ libvdpau-va-gl-i965
 m64py-git
 mpdviz
 mps-youtube-git
+mpv-mpris-git
 nbwmon-git
 ncmpcpp-git
 nvme-cli-git
@@ -38,6 +39,7 @@ optimus-manager
 pacaur-git
 pentmenu
 picom-git
+playerctl-git
 polybar-git
 polychromatic-git
 python-colorthief
