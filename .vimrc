@@ -10,3 +10,6 @@ set colorcolumn=110
 highlight ColorColumn ctermbg=darkgray
 filetype plugin on
 syntax on
+
+let g:powerline_pycmd = 'py3'
+set laststatus=2

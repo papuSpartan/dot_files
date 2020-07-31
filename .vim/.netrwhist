@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/papu/.vim'
 let g:netrw_dirhist_6='/home/papu/.config'
 let g:netrw_dirhist_5='/home/papu/META-INF'
 let g:netrw_dirhist_4='/etc/fonts/conf.d'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_1='/etc/fonts/conf.d'
 let g:netrw_dirhist_0='/home/papu/.config/fontconfig'
 let g:netrw_dirhist_9='/home/papu/.config/fontconfig/conf.d'
 let g:netrw_dirhist_8='/home/papu/Vortex/build'
-let g:netrw_dirhist_7='/etc/modules-load.d'
