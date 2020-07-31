@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-echo 'on' > "/sys/bus/usb/devices/1-8/power/control"
 picom -CGb & #CG removes shadows and b daemonizes
-nitrogen --restore &
-bash $HOME/.config/polybar/launch.sh
+#nitrogen --restore &
+sh $HOME/.config/polybar/launch.sh &
 nm-applet &
 xss-lock i3lock-fancy-rapid 10 pixel &
 wal -R -q
+sh $HOME/.config/polybar/launch.sh &
 
 # source the colors.
 . "${HOME}/.cache/wal/colors.sh"
@@ -25,3 +25,10 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
+
+#enable desktop notifications
+bspc rule -a Dunst layer='above'
+#fix autistic origin issue
+bspc rule -a "origin.exe" state=floating
+#fix steam friends
+bspc config external_rules_command /home/papu/scripts/bspwm_ex_rules/steam_friends.sh
