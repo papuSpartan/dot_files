@@ -1,0 +1,2 @@
+export ENABLE_VKBASALT=1
+export MANGOHUD=1
