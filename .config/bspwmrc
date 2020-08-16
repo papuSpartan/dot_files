@@ -1,14 +1,19 @@
 #!/usr/bin/env bash
-picom -CGb & #CG removes shadows and b daemonizes
 #nitrogen --restore &
-sh $HOME/.config/polybar/launch.sh &
-nm-applet &
-xss-lock i3lock-fancy-rapid 10 pixel &
-wal -R -q
-sh $HOME/.config/polybar/launch.sh &
 
-# source the colors.
+bspc rule -a --one-shot "Teamspeak 3:ts3client_linux_amd64" desktop=^4 follow=false
+bspc rule -a discord desktop=^4
+
+#auto-start things
+sh ~/.config/polybar/launch.sh &
+dunst &
+picom -CGb --blur-background &
+nm-applet &
+wal -R -q
+#source colors
 . "${HOME}/.cache/wal/colors.sh"
+gwe --hide-window &
+teamspeak3 &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
 
@@ -32,3 +37,5 @@ bspc rule -a Dunst layer='above'
 bspc rule -a "origin.exe" state=floating
 #fix steam friends
 bspc config external_rules_command /home/papu/scripts/bspwm_ex_rules/steam_friends.sh
+
+bspc rule -a "sdlgame" state=floating

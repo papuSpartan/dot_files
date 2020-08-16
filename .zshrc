@@ -4,5 +4,6 @@ export PATH=$PATH:~/scripts/
 export PAL_PATH=/usr/bin/pal
 export EDITOR=vim
 
-powerline-daemon -q
-. /usr/lib/python3.8/site-packages/powerline/bindings/zsh/powerline.zsh
+source ~/.promptline.sh
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
