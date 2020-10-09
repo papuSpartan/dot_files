@@ -12,7 +12,17 @@ highlight ColorColumn ctermbg=darkgray
 filetype plugin on
 syntax on
 
-colorscheme colors-wal
+
+"let g:instant_markdown_slow = 1
+let g:instant_markdown_autostart = 1
+"let g:instant_markdown_open_to_the_world = 1
+"let g:instant_markdown_allow_unsafe_content = 1
+"let g:instant_markdown_allow_external_content = 0
+"let g:instant_markdown_mathjax = 1
+"let g:instant_markdown_logfile = '/tmp/instant_markdown.log'
+"let g:instant_markdown_autoscroll = 0
+"let g:instant_markdown_port = 8888
+"let g:instant_markdown_python = 1
 
 call plug#begin('~/.vim/plugged')
 
@@ -37,7 +47,9 @@ call plug#begin('~/.vim/plugged')
  Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': 'yes \| ./install' }
 
 " Unmanaged plugin (manually installed and updated)
- Plug 'edkolev/promptline.vim'
+" Plug 'edkolev/promptline.vim'
 
+ Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
+ Plug 'vimwiki/vimwiki'
 call plug#end()
 

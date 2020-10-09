@@ -9,6 +9,9 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
-polybar bottom -c ~/.config/polybar/config-bottom.ini 2>/home/papu/.config/polybar/log &
+polybar rightmon -c ~/.config/polybar/config-bottom.ini 2>/home/papu/.config/polybar/log &
+
+polybar leftmon -c ~/.config/polybar/config-bottom.ini 2>/home/papu/.config/polybar/log &
+
 
 
