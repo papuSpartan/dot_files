@@ -13,6 +13,7 @@ super + d
 super + s
 	firefox
 
+	
 # irc
 super + i
 	alacritty -e weechat-curses
@@ -24,6 +25,9 @@ super + Escape
 super + k + {b,a}
 	setxkbmap {dvorak,us}
 
+#clipboard history
+super + c
+	rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
 #
 # bspwm hotkeys
 #
@@ -44,7 +48,9 @@ XF86AudioMute
 	pactl set-sink-mute 0 toggle
 #screenshots
 Print
-	screenshot
+	flameshot gui
+Shift + Print
+	flameshot screen
 	
 # MPS keys
 
@@ -60,10 +66,6 @@ super + alt + shift + {q,r}
 super + {_,shift + }q
 	bspc node -{c,k}
 
-# superernate between the tiled and monocle layout
-super + m
-	bspc desktop -l next
-
 # send the newest marked node to the newest preselected node
 super + y
 	bspc node newest.marked.local -n newest.!automatic.local
@@ -72,6 +74,11 @@ super + y
 super + g
 	bspc node -s biggest
 
+#swap monitor for current node
+#works by selecting currently focused node and sending it to the monitor the cursor is pointing at
+#so to use this shorcut, click the window/node you want to move, then hover over the monitor you want to send it to, and THEN run this
+super + m
+	bspc node -f -m pointed
 #
 # state/flags
 #
@@ -105,7 +112,7 @@ super + bracket{left,right}
 	bspc desktop -f {prev,next}.local
 #alt tab/alt-tab/alttab
 alt + {_,shift} + Tab
-	bspc desktop -f {next,prev}.occupied
+	bspc desktop -f {next,prev}.occupied.local
 
 # focus the older or newer node in the focus history
 super + {o,i}
@@ -114,8 +121,8 @@ super + {o,i}
 	bspc wm -h on
 
 # focus or send to the given desktop
-super + {_,shift + }{1-9,0}
-	bspc {desktop -f,node -d} '^{1-9,10}'
+#super + {_,shift + }{1-9,0}
+#	bspc {desktop -f,node -d} '^{1-9,10}'
 
 #
 # preselect
