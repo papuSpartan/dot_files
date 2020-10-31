@@ -18,6 +18,10 @@ super + s
 super + i
 	alacritty -e weechat-curses
 
+#lock/suspend computer
+super + alt + l
+	systemctl suspend
+
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -52,10 +56,10 @@ Print
 Shift + Print
 	flameshot screen
 	
-# MPS keys
+# media/MPS/mpris keys
 
-{XF86AudioPlay,XF86AudioNext,XF86AudioPrev}
-	playerctl {play-pause,next,previous}
+alt + F1
+	playerctl play-pause
 
 
 # quit/restart bspwm
