@@ -8,6 +8,15 @@ set noexpandtab
 set number relativenumber
 set nu rnu
 set colorcolumn=110
+
+" makes vim start where it was closed
+" https://askubuntu.com/questions/202075/how-do-i-get-vim-to-remember-the-line-i-was-on-when-i-reopen-a-file
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+endif
+
+
+
 highlight ColorColumn ctermbg=darkgray
 filetype plugin on
 syntax on
@@ -24,11 +33,22 @@ let g:instant_markdown_autostart = 1
 "let g:instant_markdown_port = 8888
 "let g:instant_markdown_python = 1
 
+"autostart colorizer
+"let g:colorizer_auto_color = 1
+
+
 call plug#begin('~/.vim/plugged')
+" latex support
+ Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+
+" Plug 'lervag/vimtex'
+
 
 " Make sure you use single quotes
  Plug 'junegunn/seoul256.vim'
  Plug 'junegunn/vim-easy-align'
+" Highlight current paragraph and dim rest of file
+ Plug 'junegunn/limelight.vim'
 
 " Group dependencies, vim-snippets depends on ultisnips
  Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
@@ -51,5 +71,9 @@ call plug#begin('~/.vim/plugged')
 
  Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
  Plug 'vimwiki/vimwiki'
+
+" colorize hex representing colors in various files
+Plug 'chrisbra/Colorizer'
+
 call plug#end()
 

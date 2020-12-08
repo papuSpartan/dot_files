@@ -3,13 +3,23 @@
 #trying to override desktop env var will cause multiple things to break, including wal
 #
 
-#nitrogen --restore &
+#actually load nvidia config 
+nvidia-settings --load-config-only &
 
-#auto-start things
-sh ~/.config/polybar/launch.sh &
+#setup displays
+xrandr --output DP-0 --mode 1920x1080 --right-of HDMI-0
+xrandr --output HDMI-0 --mode 1920x1080
+
+#auto-start polybar
+# sh ~/.config/polybar/launch.sh &
+# actually, do this after bspwm starts
+# (so at the end of bspwmrc)
 
 #notifications daemon
 dunst &
+
+#enable early oom reaper
+earlyoom > /home/papu/.earlyoom.log &
 
 #thunderbird tray utility
 birdtray &
@@ -20,13 +30,17 @@ picom -CGb --blur-background --config ~/.config/picom.conf &
 #predictive typing
 ibus-daemon -d
 
-
-nm-applet &
+#nm-applet &
 greenclip daemon &
-wal -R -q
 
+#pywal / wal
+wal -R -q
 #source colors from wal scheme
 . "${HOME}/.cache/wal/colors.sh"
+#theme firefox from pywal
+pywalfox start &
+#theme discord from pywal
+wal-discord
 
 #gpu overclocking fans fan 
 gwe --hide-window &
@@ -34,13 +48,12 @@ gwe --hide-window &
 #lockscreen lock-screen
 xss-lock i3lock-fancy-rapid 10 pixel &
 
+#enable multi-threaded support for firefox
+export MOZ_USE_OMTC=1
+
 #screen dpi junk
 export QT_AUTO_SCREEN_SCALE_FACTOR=1
-echo "Xcursor.size: 20" | xrdb -merge
-xrandr --output DP-0 --scale 0.5x0.5
-
-#launch discord gonk bot
-node /home/papu/Documents/programming/discordbot/discord-bot-sitepoint/index.js &
+echo "Xcursor.size: 30" | xrdb -merge
 
 export GTK_THEME=Adwaita:dark
 export QT_QPA_PLATFORMTHEME=qt5ct
@@ -51,6 +64,9 @@ wmname LG3D #this is so that programs like jetbrains work
 xset +fp /home/papu/.local/share/fonts
 xset fp rehash
 setxkbmap -option caps:super
+
+#run noise supression software
+#cadmus > /home/papu/.cadmus.log 2>&1 &
 
 sxhkd &
 exec bspwm -c ~/.config/bspwmrc
