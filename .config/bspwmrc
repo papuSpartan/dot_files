@@ -40,7 +40,6 @@ bspc config external_rules_command /home/papu/scripts/bspwm_ex_rules/steam_frien
 bspc rule -a "sdlgame" state=floating
 bspc rule -a discord desktop=^4
 
-sh ~/.config/polybar/launch.sh &
 
 #launch noise supression
 cadmus &
@@ -50,3 +49,7 @@ discover-overlay > ~/.logs/discover-overlay.log 2>&1 &
 
 #obs (for using replay and whatnot)
 obs &
+
+setxkbmap -option caps:super > ~/.logs/setxkbmap.log 2>&1 &
+sxhkd -c ~/.config/sxhkd/sxhkdrc > ~/.logs/sxhkd.log 2>&1 &
+sh ~/.config/polybar/launch.sh &

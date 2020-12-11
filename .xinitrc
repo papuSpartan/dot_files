@@ -40,13 +40,14 @@ wal -R -q
 #theme firefox from pywal
 pywalfox start &
 #theme discord from pywal
-wal-discord
+wal-discord &
 
 #gpu overclocking fans fan 
 gwe --hide-window &
 
 #lockscreen lock-screen
-xss-lock i3lock-fancy-rapid 10 pixel &
+#xss-lock i3lock-fancy-rapid 10 pixel &
+xss-lock lockscreen &
 
 #enable multi-threaded support for firefox
 export MOZ_USE_OMTC=1
@@ -63,10 +64,5 @@ export QT_PLUGIN_PATH=/home/papu/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/
 wmname LG3D #this is so that programs like jetbrains work
 xset +fp /home/papu/.local/share/fonts
 xset fp rehash
-setxkbmap -option caps:super
 
-#run noise supression software
-#cadmus > /home/papu/.cadmus.log 2>&1 &
-
-sxhkd &
 exec bspwm -c ~/.config/bspwmrc

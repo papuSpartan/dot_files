@@ -23,9 +23,9 @@ super + i
 	systemctl start tor
 	alacritty -e weechat-curses
 
-#lock/suspend computer
+#engage lockscreen
 super + alt + l
-	systemctl suspend
+	~/scripts/lockscreen
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -58,8 +58,6 @@ XF86AudioMute
 #screenshots
 Print
 	flameshot gui
-Shift + Print
-	flameshot screen
 	
 # media/MPS/mpris keys
 

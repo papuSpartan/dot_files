@@ -4,23 +4,11 @@ polybar|notice:  Loaded font "Encom:size=12" (name=Encom, offset=5, file=/home/p
 polybar|notice:  Loaded font "Siji:size=12" (name=Siji, offset=4, file=/usr/share/fonts/misc/siji.bdf)
 polybar|notice:  Loaded font "xos4 Terminus:size=12" (name=DejaVu Sans, offset=1, file=/usr/share/fonts/TTF/DejaVuSans.ttf)
 polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
-polybar|warn:  Tray client 0x1e00004 already embedded, ignoring request...
+polybar|warn:  Tray client 0x2400004 already embedded, ignoring request...
 polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
 polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
-polybar|notice:  Termination signal received, shutting down...
-polybar|notice:  Parsing config file: /home/papu/.config/polybar/bar.ini
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_28_00.3.analog-stereo
-polybar|notice:  Loaded font "Encom:size=12" (name=Encom, offset=5, file=/home/papu/.local/share/fonts/Unknown Vendor/TrueType/Encom/Encom_Regular.ttf/Unknown Vendor/TrueType/Encom/Encom_Regular.ttf)
-polybar|notice:  Loaded font "Siji:size=12" (name=Siji, offset=4, file=/usr/share/fonts/misc/siji.bdf)
-polybar|notice:  Loaded font "xos4 Terminus:size=12" (name=DejaVu Sans, offset=1, file=/usr/share/fonts/TTF/DejaVuSans.ttf)
-polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
-polybar|notice:  Termination signal received, shutting down...
-polybar|notice:  Parsing config file: /home/papu/.config/polybar/bar.ini
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_28_00.3.analog-stereo
-polybar|notice:  Loaded font "Encom:size=12" (name=Encom, offset=5, file=/home/papu/.local/share/fonts/Unknown Vendor/TrueType/Encom/Encom_Regular.ttf/Unknown Vendor/TrueType/Encom/Encom_Regular.ttf)
-polybar|notice:  Loaded font "Siji:size=12" (name=Siji, offset=4, file=/usr/share/fonts/misc/siji.bdf)
-polybar|notice:  Loaded font "xos4 Terminus:size=12" (name=DejaVu Sans, offset=1, file=/usr/share/fonts/TTF/DejaVuSans.ttf)
-polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_26_00.1.hdmi-stereo-extra1
-polybar|notice:  pulseaudio: using default sink auto_null
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_26_00.1.hdmi-stereo-extra1
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
