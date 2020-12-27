@@ -1,13 +1,20 @@
 [global]
+#define what happens when you hit the lmb
+mouse_left = do_action
+
 background = "#0001"
 foreground = "#000000"
-show_indicators = false
+show_indicators = true
 
 transparency = 0
 
 #makes all notifications appear on the main monitor
 follow = none
 monitor = 0
+
+#actual width of notification
+#zero makes it go to the length of the longest message/notification
+width = 0
 
 # Height of separator between notifications
 separator_height = 2
@@ -16,7 +23,7 @@ padding = 8
 # Horizontal padding
 horizontal_padding = 8
 # Border width.  Set to 0 to disable
-frame_width = 2
+frame_width = 1.5
 # Border color
 frame_color = "#18CAE6"
 
