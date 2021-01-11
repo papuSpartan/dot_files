@@ -1,3 +1,7 @@
+# show help on key bindings
+super + F1
+        alacritty -e sh ~/scripts/showKeybindings.sh
+
 #
 # wm independent hotkeys
 #
@@ -12,7 +16,7 @@ super + Return
 
 # program launcher
 super + d
-	rofi -show run -modi run,window -markup -show-icons -sidebar-mode -terminal alacritty
+	rofi -show run -modi drun,window -markup -show-icons -sidebar-mode -terminal alacritty
 # browser launch
 super + s
 	firefox
@@ -26,7 +30,7 @@ super + i
 	alacritty -e weechat-curses
 
 #engage lockscreen
-super + alt + l
+super + l
 	~/scripts/lockscreen
 
 # make sxhkd reload its configuration files:
@@ -68,7 +72,7 @@ alt + F1
 
 
 # quit/restart bspwm
-super + alt + shift + {q,r}
+alt + shift + {q,r}
 	bspc {quit,wm -r}
 
 # close and kill
@@ -105,7 +109,7 @@ super + ctrl + {m,x,y,z}
 #
 
 # focus the node in the given direction
-super + {_,shift + }{h,j,k,l}
+alt + {_,shift + }{h,j,k,l}
 	bspc node -{f,s} {west,south,north,east}
 
 # focus the node for the given path jump
@@ -158,11 +162,11 @@ super + ctrl + shift + space
 #
 
 # expand a window by moving one of its side outward
-super + ctrl + {h,j,k,l}
+alt + e + {h,j,k,l}
 	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
 
 # contract a window by moving one of its side inward
-super + ctrl + shift + {h,j,k,l}
+alt + shift + e + {h,j,k,l}
 	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
 
 # move a floating window

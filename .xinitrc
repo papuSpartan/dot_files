@@ -2,9 +2,10 @@
 nvidia-settings --load-config-only &
 
 #setup displays
-xrandr --output DP-0 --mode 1920x1080 --right-of HDMI-0
-xrandr --output HDMI-0 --mode 1920x1080
-xrandr --output DP-4 --mode 1920x1080 --rate 144.0
+#xrandr --output DP-0 --mode 1920x1080 --right-of HDMI-0
+#xrandr --output HDMI-0 --mode 1920x1080
+#xrandr --output DP-4 --mode 1920x1080 --rate 144.0
+#this SHOULD all be handled by /etc/X11/xorg.conf now
 
 #setup mouse cursor theme
 xrdb ~/.Xresources
@@ -19,7 +20,7 @@ earlyoom > /home/papu/.earlyoom.log &
 birdtray &
 
 #compositing
-picom -CGb --blur-background --config ~/.config/picom.conf &
+picom -CGb --vsync --blur-background --config ~/.config/picom.conf &
 
 #predictive typing
 #ibus-daemon -d
