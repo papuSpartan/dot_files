@@ -1,11 +1,7 @@
+export PATH=$PATH:~/scripts/
+
 #actually load nvidia config 
 nvidia-settings --load-config-only &
-
-#setup displays
-#xrandr --output DP-0 --mode 1920x1080 --right-of HDMI-0
-#xrandr --output HDMI-0 --mode 1920x1080
-#xrandr --output DP-4 --mode 1920x1080 --rate 144.0
-#this SHOULD all be handled by /etc/X11/xorg.conf now
 
 #setup mouse cursor theme
 xrdb ~/.Xresources
@@ -20,10 +16,17 @@ earlyoom > /home/papu/.earlyoom.log &
 birdtray &
 
 #compositing
-picom -CGb --vsync --blur-background --config ~/.config/picom.conf &
+picom -CGb --vsync --refresh-rate 0 --blur-background --config ~/.config/picom.conf &
+
+#reminders from gcalcli (google calendar)
+gCalRemind &
 
 #predictive typing
 #ibus-daemon -d
+
+#start openrgb server to handle requests to change setup LED's
+openrgb --server --profile blueAndWhite.orp &
+
 
 #nm-applet &
 greenclip daemon &
@@ -56,7 +59,7 @@ xsetroot -cursor_name left_ptr
 
 export GTK_THEME=Adwaita:dark
 export QT_QPA_PLATFORMTHEME=qt5ct
-#QT_STYLE_OVERRIDE=Breeze-Dark
+QT_STYLE_OVERRIDE=Breeze-Dark
 export QT_PLUGIN_PATH=/home/papu/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/
 
 wmname LG3D #this is so that programs like jetbrains work

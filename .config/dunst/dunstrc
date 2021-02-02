@@ -3,7 +3,7 @@
 mouse_left = do_action
 
 background = "#0001"
-foreground = "#000000"
+foreground = "#FFFFFF"
 show_indicators = true
 
 transparency = 0
@@ -34,8 +34,11 @@ geometry = "300x5-30+20"
 
 [urgency_low]
 background = "#000000"
+foreground = "#FFFFFF"
 [urgency_normal]
 background = "#000000"
+foreground = "#FFFFFF"
 [urgency_critical]
 background = "#000000"
+foreground = "#FFFFFF"
 frame_color = "#DF740C"

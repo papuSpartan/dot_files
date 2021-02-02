@@ -1,9 +1,10 @@
-sw_volume: 60
+sw_volume: 70
 audio_device_state:1:my_fifo
 audio_device_state:1:pulse audio
-state: stop
-current: 3
-random: 0
+state: pause
+current: 555
+time: 62.698000
+random: 1
 repeat: 1
 single: 1
 consume: 0
@@ -15,4 +16,618 @@ playlist_begin
 1:God Knows - Aya Hirano [Lossless_FLAC].flac
 2:blackCatcher.wav
 3:01 PAiNT it BLACK.flac
+4:Death Note OST Full/Death Note OST-2/19 - L no Nakama.mp3
+5:Death Note OST Full/Death Note OST-2/17 - Ikari.mp3
+6:Death Note OST Full/Death Note OST-2/09 - Kuroi Light.mp3
+7:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/01 進撃st-hrn-egt20130629巨人.flac
+8:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/02 進撃pf20130218巨人.flac
+9:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/03 進撃gt20130218巨人.flac
+10:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/01 Guren no Yumiya.flac
+11:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+12:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.04.27] STEINS;GATE｜Hacking to the Gate [opening]/01. Hacking to the Gate.flac
+13:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.04.27] STEINS;GATE｜Hacking to the Gate [opening]/02. リライアンス.flac
+14:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.05.25] STEINS;GATE｜刻司ル十二ノ盟約 [ending]/01. 刻司ル十二ノ盟約.flac
+15:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/01. Promise -piano-.flac
+16:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/20. @Channel.flac
+17:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/02. Confrontation with fear.flac
+18:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/24. Lab-members.flac
+19:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/23. Operation G-BACK.flac
+20:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/21. オカリンのサスペンス.flac
+21:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2011.07.27] STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-/18. Silence eyes.flac
+22:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2018.04.25] STEINS;GATE 0｜ファティマ [opening]/01. ファティマ.flac
+23:Darth Maul Theme Song (Duel of The Fates) by John Williams.mp3
+24:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/ED02 Single - Mosaic Kakera/01 - Mozaiku Kakera.flac
+25:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/ED02 Single - Mosaic Kakera/03 - My Pace (Premium Live Ver.).flac
+26:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OP01 Single - COLORS/01 - COLORS.flac
+27:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/01 - REINCARNATION.flac
+28:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/02 - never end.flac
+29:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/03 - Hare Nochi Natsu no Ame.flac
+30:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/11 - Tiara no Kimochi.flac
+31:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/12 - Reason.flac
+32:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/Character Song Best/14 - Hate Shinai Mirai.flac
+33:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+34:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+35:Yutaka Yamada - Vinland Saga Soundtrack/2-14. Awaken.flac
+36:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+37:Yutaka Yamada - Vinland Saga Soundtrack/2-19. End of the Prologue.flac
+38:Yutaka Yamada - Vinland Saga Soundtrack/2-17. Intertwined.flac
+39:Yutaka Yamada - Vinland Saga Soundtrack/2-21. Torches (TV size).flac
+40:Yutaka Yamada - Vinland Saga Soundtrack/2-23. Drown (TV size).flac
+41:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/24 Ara Ara, Uhuhu.flac
+42:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/26 Tsugi wa Game de Aou!.flac
+43:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/27 Akuma no Kekkonshiki!.flac
+44:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/28 Seibu no Kettou!.flac
+45:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/20 Utsukushiku, Akai....flac
+46:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/13 Tsumari wa, Oppai desu.flac
+47:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/08 Omoi, Yosemasu.flac
+48:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+49:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+50:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+51:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/04_GALAXY.flac
+52:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/05_LUNA.flac
+53:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/06_MY NAME IS MIGI.flac
+54:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/07_JUSTICE.flac
+55:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/08_CREAM SODA.flac
+56:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+57:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+58:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/12_KILL THE PUPPETS.flac
+59:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/13_PRIDE AND JOY.flac
+60:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/15_LESSON1.flac
+61:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+62:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/17_LIVES.flac
+63:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/18_ROMANESQUE.flac
+64:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+65:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/17 Eyecatch A.flac
+66:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/01 D no Taidou.flac
+67:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/06 Ai ga Mebaeru.flac
+68:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/01 Opening Arrange.flac
+69:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/19 Kakusei.flac
+70:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/20 Kiki.flac
+71:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/21 Kyouteki.flac
+72:Yutaka Yamada - Vinland Saga Soundtrack/1-01. Troll.flac
+73:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+74:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+75:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+76:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+77:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+78:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+79:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+80:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+81:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+82:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+83:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+84:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+85:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+86:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+87:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+88:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+89:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+90:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+91:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+92:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+93:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+94:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+95:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+96:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+97:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+98:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+99:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+100:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+101:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+102:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+103:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+104:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+105:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+106:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+107:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+108:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+109:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/08_CREAM SODA.flac
+110:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/11 進撃pf-medley20130629巨人.flac
+111:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+112:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+113:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+114:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+115:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+116:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+117:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+118:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+119:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+120:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+121:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+122:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+123:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+124:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+125:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+126:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+127:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+128:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+129:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+130:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+131:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+132:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+133:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+134:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+135:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+136:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+137:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+138:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+139:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+140:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+141:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+142:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+143:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+144:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+145:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+146:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+147:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/08_CREAM SODA.flac
+148:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+149:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+150:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+151:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+152:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+153:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+154:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+155:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+156:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+157:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+158:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+159:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+160:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+161:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+162:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+163:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+164:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+165:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+166:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+167:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+168:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+169:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+170:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+171:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+172:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+173:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+174:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+175:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+176:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+177:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+178:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+179:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+180:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+181:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+182:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+183:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+184:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+185:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+186:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+187:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+188:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+189:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+190:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+191:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+192:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+193:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+194:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+195:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+196:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+197:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+198:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+199:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+200:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+201:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+202:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+203:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+204:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+205:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+206:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+207:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+208:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+209:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+210:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+211:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+212:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+213:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+214:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+215:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+216:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+217:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+218:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+219:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+220:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+221:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+222:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+223:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+224:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+225:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+226:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+227:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+228:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+229:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+230:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+231:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+232:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+233:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+234:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+235:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+236:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+237:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+238:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+239:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+240:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+241:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+242:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+243:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+244:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/01 ətˈæk 0N tάɪtn.flac
+245:Naruto/Naruto Shippuden Original Soundtrack I/07 - Man of the World.flac
+246:Naruto/Naruto Shippuden Original Soundtrack I/01 - Shippuden.flac
+247:Naruto/Naruto Best Hit Collection 1/09 - Many Times Before.flac
+248:Naruto/_Singles/Naruto Shippuden OP01 - Hero's Come Back!!/02 - Ca Latte.flac
+249:Yutaka Yamada - Vinland Saga Soundtrack/2-06. Father and son.flac
+250:Naruto/Naruto Best Hit Collection 1/01 - ROCKS.flac
+251:Naruto/Naruto Best Hit Collection 2/09 - Ding! Dong! Dang!.flac
+252:Naruto/Naruto Original Soundtrack I/12 - Sexiness.flac
+253:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+254:Naruto/Naruto Original Soundtrack I/04 - Morning.flac
+255:Naruto/Naruto Original Soundtrack I/05 - Naruto's Daily Life.flac
+256:Naruto/Naruto Original Soundtrack I/09 - Loneliness.flac
+257:Naruto/Naruto Original Soundtrack II/08 - Fooling Mode.flac
+258:Naruto/Naruto Original Soundtrack II/11 - Gai's Theme.flac
+259:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+260:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+261:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+262:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+263:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+264:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+265:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+266:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+267:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+268:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+269:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+270:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+271:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+272:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+273:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+274:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+275:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+276:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+277:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+278:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+279:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+280:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+281:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+282:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+283:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+284:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+285:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+286:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+287:Shingeki no Kyojin Music Collection [FLAC]/Shingeki no Kyojin Vol.2 Drama CD/01 Sasha no dotou no ryouri batoru-hen.flac
+288:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/08 DOA.flac
+289:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+290:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+291:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+292:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/29. SEGAPOPHOLIC - Hello Beast (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+293:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/30. SEGAZENTA - Red Radical Rage (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+294:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/02. POPHOLIC - Rush! Rush! Rush!! (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+295:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+296:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/02. Kanjou Riterashii.flac
+297:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/03. Flyers -Hidden AFRO ver.-.flac
+298:Death Parade Original Soundtrack [FLAC]/02 ED Single - Last Theater/01 Last Theater.flac
+299:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/01 Death Parade.flac
+300:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/04 Regret Of The Death.flac
+301:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/05 Happy People.flac
+302:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/06 Front And Back.flac
+303:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/07 People That Live.flac
+304:Death Parade Original Soundtrack [FLAC]/03 Death Parade Original Soundtrack/08 Memento Mori.flac
+305:Naruto/Naruto In Rock -The Very Best Hit Collection Instrumental Version-/02 - Viva Rock.flac
+306:Naruto/Naruto In Rock -The Very Best Hit Collection Instrumental Version-/07 - Ding! Dong! Dang!.flac
+307:Naruto/Naruto In Rock -The Very Best Hit Collection Instrumental Version-/08 - Home Sweet Home.flac
+308:Naruto/Naruto In Rock -The Very Best Hit Collection Instrumental Version-/03 - Seishun Kyousoukyoku.flac
+309:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+310:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+311:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+312:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+313:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+314:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+315:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+316:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+317:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+318:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+319:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+320:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+321:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+322:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+323:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+324:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+325:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+326:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+327:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+328:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+329:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+330:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+331:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+332:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+333:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+334:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+335:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+336:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+337:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+338:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+339:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+340:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+341:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+342:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+343:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+344:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+345:[Nemuri] STEINS;GATE シュタインズ・ゲート (2009-2020) [FLAC]/[2011-2018] ANIME ALBUMS/[2018.08.29] STEINS;GATE 0｜World-Line [ending 2]/01. World-Line.flac
+346:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/15 Call your name.flac
+347:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/12 Bauklötze.flac
+348:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/10 E・M・A.flac
+349:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/09 Kyojin Shinkou.flac
+350:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+351:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/04 Rittai Kidou.flac
+352:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/03 Moshi Kono Kabe no Naka ga Ikken no Ie da to Shitara.flac
+353:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/04 進撃st-hrn-gt-pf20130629巨人.flac
+354:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+355:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/07 進撃pf-adlib-b20130218巨人.flac
+356:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/08 進撃st20130629巨人.flac
+357:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/09 進撃pf-adlib-c20130218巨人.flac
+358:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/10 進撃st-hrn-gt20130629巨人.flac
+359:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+360:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/02 Starting line.flac
+361:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/03 Utsukushiki Zankoku na Sekai (Instrumental).flac
+362:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/04 Starting line (Instrumental).flac
+363:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/05 cóunter・attàck-mˈænkάɪnd.flac
+364:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/11 Megata Kyojin Kuchiku.flac
+365:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/16 omake-pfadlib.flac
+366:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/14 XL-TT.flac
+367:Daft Punk - Tron Legacy (2010) [FLAC](www.TorrentSpain.com)/12. End of Line (www.TorrentSpain.com).flac
+368:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+369:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+370:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+371:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+372:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+373:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+374:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+375:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+376:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+377:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+378:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+379:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+380:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+381:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+382:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+383:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+384:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+385:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+386:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+387:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+388:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+389:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+390:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+391:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+392:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+393:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+394:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+395:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+396:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+397:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+398:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+399:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+400:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+401:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+402:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+403:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+404:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+405:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+406:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+407:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+408:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+409:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+410:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+411:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+412:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+413:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+414:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+415:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+416:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+417:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+418:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+419:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+420:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+421:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+422:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+423:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+424:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+425:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+426:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+427:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+428:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+429:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+430:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+431:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+432:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+433:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+434:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+435:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+436:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+437:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+438:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+439:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+440:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+441:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+442:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+443:Daft Punk - Tron Legacy (2010) [FLAC](www.TorrentSpain.com)/18. C.L.U. (www.TorrentSpain.com).flac
+444:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 1/18 Eyecatch B.flac
+445:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+446:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+447:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+448:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+449:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+450:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+451:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+452:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+453:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+454:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+455:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+456:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+457:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+458:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+459:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+460:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+461:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+462:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+463:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+464:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+465:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+466:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+467:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+468:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+469:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+470:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+471:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+472:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+473:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+474:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+475:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+476:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+477:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+478:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+479:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+480:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+481:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+482:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+483:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+484:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+485:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+486:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+487:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+488:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+489:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+490:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+491:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+492:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+493:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+494:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+495:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+496:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+497:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+498:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+499:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+500:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+501:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+502:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+503:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+504:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+505:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+506:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+507:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+508:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+509:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+510:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+511:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+512:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+513:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+514:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+515:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+516:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+517:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+518:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+519:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+520:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/02 The Reluctant Heroes.flac
+521:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+522:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+523:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+524:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/14 XL-TT.flac
+525:残酷な天使のテーゼ(Director's Edit. Version).flac
+526:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+527:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+528:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+529:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+530:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+531:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+532:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+533:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/02_BLISS.flac
+534:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+535:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+536:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+537:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+538:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+539:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+540:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+541:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+542:Naruto/_Singles/Naruto ED01 - Wind/01 - Wind.flac
+543:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+544:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+545:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+546:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+547:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+548:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+549:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+550:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+551:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+552:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+553:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/02 The Reluctant Heroes.flac
+554:Naruto/Naruto Super Hits 2006-2008/06 - Hero's Come Back!!.flac
+555:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+556:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+557:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+558:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+559:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+560:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+561:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+562:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+563:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+564:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+565:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/02_BLISS.flac
+566:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+567:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+568:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+569:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+570:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+571:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+572:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+573:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+574:Naruto/Naruto Super Hits 2006-2008/06 - Hero's Come Back!!.flac
+575:Naruto/_Singles/Naruto ED01 - Wind/01 - Wind.flac
+576:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+577:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+578:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+579:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+580:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+581:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+582:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+583:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+584:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+585:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+586:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/02 The Reluctant Heroes.flac
+587:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/14 XL-TT.flac
+588:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/02 - Stories.flac
+589:Code Geass Sound Collection (FLAC)/Hangyaku no Lelouch/OST/21 - Devil Created.flac
+590:Yutaka Yamada - Vinland Saga Soundtrack/2-20. Mukanjyo (TV size).flac
+591:Yutaka Yamada - Vinland Saga Soundtrack/2-22. Dark Crow (TV size).flac
+592:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/27 STUDY×STUDY (TV Size).flac
+593:Various Artists - High School DxD Original Soundtrack [FLAC]/Disc 2/26 Trip -innocent of D- (TV Size).flac
+594:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/01_I AM.flac
+595:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/02_BLISS.flac
+596:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/03_HYPNOTIK.flac
+597:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/09_HUMAN.flac
+598:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/11_NEXT TO YOU.flac
+599:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/16_BLACK NAIL.flac
+600:Parasyte -the maxim- (寄生獣 セイの格率) Original Soundtrack [FLAC](24bit／48kHz)/19_SOLITUDE.flac
+601:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/07 Vogel im Käfig.flac
+602:Naruto/Naruto Original Soundtrack I/01 - R★O★C★K★S.flac
+603:Naruto/Best Hit Naruto/01 - Blue Bird.flac
+604:Naruto/Naruto Original Soundtrack I/08 - Sadness and Sorrow.flac
+605:Naruto/Naruto Super Hits 2006-2008/06 - Hero's Come Back!!.flac
+606:Naruto/_Singles/Naruto ED01 - Wind/01 - Wind.flac
+607:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side A/27. POPHOLIC - Fever ☆ Time (Ryu ga Gotoku Zero (Yakuza 0) OST Side A).flac
+608:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/34. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - I wanna take you home (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+609:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/35. Kensuke Inage (TEMPEST STUDIO)  Yoshihiro Arai - Friday Night (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+610:Hidenori Shoji - Ryu ga Gotoku Zero (Yakuza 0) OST (A and B sides) 2015/Side B/36. Hirotaka Kumagawa (TEMPEST STUDIO)  Mari Yoshida - Queen of the passion (Ryu ga Gotoku Zero (Yakuza 0) OST Side B).flac
+611:Death Parade Original Soundtrack [FLAC]/01 OP Single - Flyers/01. Flyers.flac
+612:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/03 eye-water.flac
+613:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Linked Horizon - Shingeki no Kyojin OP - Jiyuu e no Shingeki [FLAC]/02 Jiyuu no Tsubasa.flac
+614:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/05 進撃vc-pf20130218巨人.flac
+615:Shingeki no Kyojin Music Collection [FLAC]/[AOI] Shingeki no Kyojin Original Soundtrack II [flac]/06 進撃vn-pf20130524巨人.flac
+616:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Hikasa Youko - Shingeki no Kyojin ED - Utsukushiki Zankoku na Sekai [FLAC]/01 Utsukushiki Zankoku na Sekai.flac
+617:Shingeki no Kyojin Music Collection [FLAC]/[ASL] Various Artists - Shingeki no Kyojin Original Soundtrack [FLAC]/02 The Reluctant Heroes.flac
 playlist_end

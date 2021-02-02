@@ -6,9 +6,17 @@ super + F1
 # wm independent hotkeys
 #
 
-#open file explorer(ranger)
+#change monitor brightness
+super + shift + b
+	/home/papu/scripts/setMonBright
+
+#open file explorer(janger)
 super + e
 	alacritty -e ranger
+
+#launch slew of programs to show agenda
+super + shift + a
+	/home/papu/scripts/agenda &
 
 # terminal emulator
 super + Return
@@ -20,6 +28,14 @@ super + d
 # browser launch
 super + s
 	firefox
+
+#launch music player
+super + shift + m
+	alacritty -e ncmpcpp
+
+#torrent download rofi script
+super + shift + t
+	/home/papu/scripts/tkit
 
 alt + shift + l
 	bspc node --focus last
@@ -134,6 +150,9 @@ super + {o,i}
 	bspc wm -h on
 
 # focus or send to the given desktop
+#super + {_,shift + }{1-9,0}
+#	bspc {desktop -f,node -d} '^{1-9,10}'
+
 super + {_,shift + }{1-9,0}
 	bspc {desktop -f,node -d} '^{1-9,10}'
 

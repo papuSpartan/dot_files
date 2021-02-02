@@ -6,9 +6,7 @@ polybar|notice:  Loaded font "xos4 Terminus:size=12" (name=DejaVu Sans, offset=1
 polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
 polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
 polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
-polybar|warn:  Tray client 0x1e00004 already embedded, ignoring request...
-polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
-polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to setup tray client, removing... (XCB_WINDOW (3))
 polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
-polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
-polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
