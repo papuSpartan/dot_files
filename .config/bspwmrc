@@ -64,7 +64,7 @@ sh ~/.config/polybar/launch.sh &
 
 #launch discord
 bspc desktop --focus ^5
-discord > /home/papu/.logs/discord.log 2>&1 &
+discord --start-minimized > /home/papu/.logs/discord.log 2>&1 &
 
 prospect &
 
