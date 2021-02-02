@@ -8,9 +8,6 @@
 # Alternative (blocks terminal for 0-3ms)
 #cat ~/.cache/wal/sequences
 
-#enable support for terminal visualizer effect
-export BARVA_SOURCE=$(/usr/share/barva/pa-get-default-monitor.sh)
-
 # To add support for TTYs this line can be optionally added.
 source ~/.cache/wal/colors-tty.sh
 
