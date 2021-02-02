@@ -16,7 +16,7 @@ earlyoom > /home/papu/.earlyoom.log &
 birdtray &
 
 #compositing
-picom -CGb --vsync --refresh-rate 0 --blur-background --config ~/.config/picom.conf &
+picom --vsync --refresh-rate 0 --blur-background --config ~/.config/picom.conf &
 
 #reminders from gcalcli (google calendar)
 gCalRemind &
