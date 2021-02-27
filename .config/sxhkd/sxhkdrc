@@ -1,3 +1,5 @@
+export PATH=$PATH:~/scripts/
+
 # show help on key bindings
 super + F1
         alacritty -e sh ~/scripts/showKeybindings.sh
@@ -8,15 +10,15 @@ super + F1
 
 #change monitor brightness
 super + shift + b
-	/home/papu/scripts/setMonBright
+	setMonBright
 
-#open file explorer(janger)
+#open file explorer(ranger)
 super + e
 	alacritty -e ranger
 
 #launch slew of programs to show agenda
 super + shift + a
-	/home/papu/scripts/agenda &
+	agenda &
 
 # terminal emulator
 super + Return
@@ -35,7 +37,7 @@ super + shift + m
 
 #torrent download rofi script
 super + shift + t
-	/home/papu/scripts/tkit
+	tkit
 
 alt + shift + l
 	bspc node --focus last

@@ -21,6 +21,9 @@ highlight ColorColumn ctermbg=darkgray
 filetype plugin on
 syntax on
 
+" enable spellchecking
+
+
 
 "let g:instant_markdown_slow = 1
 let g:instant_markdown_autostart = 1
@@ -40,6 +43,9 @@ let g:instant_markdown_autostart = 1
 call plug#begin('~/.vim/plugged')
 " latex support
  Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+ 
+ " Grammar checking
+ Plug 'rhysd/vim-grammarous'
 
 " Plug 'lervag/vimtex'
 
